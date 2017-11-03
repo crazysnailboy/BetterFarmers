@@ -1,0 +1,9 @@
+[{
+	"modid": "betterfarmers",
+	"name": "Better Farmers",
+	"description": "Makes Farmer villagers more versatile",
+	"version": "${version}",
+	"mcversion": "${mcversion}",
+	"url": "https://minecraft.curseforge.com/projects/better-farmers",
+	"authorList": ["crazysnailboy"]
+}]
